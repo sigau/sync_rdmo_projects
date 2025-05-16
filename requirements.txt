@@ -1,0 +1,2 @@
+GitPython==3.1.44
+dicttoxml==1.7.16
